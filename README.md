@@ -1,4 +1,4 @@
-## 이름
+## 지원자
 
 장준희
 
@@ -9,4 +9,5 @@ $ npm install
 $ npm start
 ```
 
-## 데모 영상
+## 배포 링크
+[배포된 링크입니다.] (https://wanted-pre-onboarding-frontend-umber-nine.vercel.app/)
